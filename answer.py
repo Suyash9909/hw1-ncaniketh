@@ -6,9 +6,6 @@ Python Core object Types
 """
 
 
-import itemgetter
-
-
 def number():
     """
     This is to review numbers and basic operations.
