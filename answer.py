@@ -35,7 +35,7 @@ def strings():
 
     # What is the length of stevens_7?
 
-    length = len(stevens)
+    length = len(stevens_7)
 
     # Concatenate variable stevens with string " is great" and assign it to variable great.
 
@@ -89,7 +89,7 @@ def list_2D():
     A = [[1, 4, 5], [6, 10, 11], [12, 17, 38]]
 
     # Collect the items in the last column of matrix A using list comprehension and assign it to a new variable last_column.
-    last_column = [x for x in A[2]]
+    last_column = [A[x][2] for x in range(3)]
 
     # Get the item at the last row and last column of A.
 
