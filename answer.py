@@ -5,13 +5,13 @@ Python Core object Types
 """
 
 def number():
+"""
+    This is to review numbers and basic operations.
     """
-       This is to review numbers and basic operations.
-       """
-    # Write the value 4 to the power of 5 and assign it to variable x.
-   inta = 4**5
+# Write the value 4 to the power of 5 and assign it to variable x.
+inta = 4**5
     x =a
-    # Write the value x divided by 3 and assign it to variable y.
+# Write the value x divided by 3 and assign it to variable y.
     b=x%3
     y = b
 
